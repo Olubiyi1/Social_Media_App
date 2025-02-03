@@ -16,39 +16,39 @@ export default function Sidebar() {
         <div className="sidebarWrapper">
             <ul className="sidebarList">
                 <li className="sidebarListItems">
-                    <RssFeed className="sidebarIcon"/>
+                    <RssFeed htmlColor="#1877f2" className="sidebarIcon"/>
                     <span className="sidebarListItemText">Feed </span>
                 </li>
                 <li className="sidebarListItems">
-                    <ChatIcon className="sidebarIcon"/>
+                    <ChatIcon htmlColor="#1877f2" className="sidebarIcon"/>
                     <span className="sidebarListItemText">Chat </span>
                 </li>
                 <li className="sidebarListItems">
-                    <PlayCircleIcon className="sidebarIcon"/>
+                    <PlayCircleIcon htmlColor="#1877f2" className="sidebarIcon"/>
                     <span className="sidebarListItemText">Videos </span>
                 </li>
                 <li className="sidebarListItems">
-                    <GroupIcon className="sidebarIcon"/>
+                    <GroupIcon htmlColor="#1877f2" className="sidebarIcon"/>
                     <span className="sidebarListItemText">Groups </span>
                 </li>
                 <li className="sidebarListItems">
-                    <BookmarkIcon className="sidebarIcon"/>
+                    <BookmarkIcon htmlColor="#1877f2" className="sidebarIcon"/>
                     <span className="sidebarListItemText">Bookmarks </span>
                 </li>
                 <li className="sidebarListItems">
-                    <HelpOutlineIcon  className="sidebarIcon"/>
+                    <HelpOutlineIcon htmlColor="#1877f2"  className="sidebarIcon"/>
                     <span className="sidebarListItemText">Questions </span>
                 </li>
                 <li className="sidebarListItems">
-                    <WorkOutlineIcon className="sidebarIcon"/>
+                    <WorkOutlineIcon htmlColor="#1877f2" className="sidebarIcon"/>
                     <span className="sidebarListItemText">Jobs </span>
                 </li>
                 <li className="sidebarListItems">
-                    <EventIcon className="sidebarIcon"/>
+                    <EventIcon htmlColor="#1877f2" className="sidebarIcon"/>
                     <span className="sidebarListItemText">Events </span>
                 </li>
                 <li className="sidebarListItems">
-                    <SchoolIcon className="sidebarIcon"/>
+                    <SchoolIcon htmlColor="#1877f2" className="sidebarIcon"/>
                     <span className="sidebarListItemText">Courses </span>
                 </li>
             </ul>
